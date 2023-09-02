@@ -1,26 +1,8 @@
-## Getting Started
+## YouTube Course
 
-Create a project using this example:
+[YouTube Course - Become a blockchain developer in 2023: Full course](https://youtu.be/rc-Q1sQwMsU)
 
-```bash
-npx thirdweb create --contract --template forge-starter
-```
-
-You can start editing the page by modifying `contracts/Contract.sol`.
-
-To add functionality to your contracts, you can use the `@thirdweb-dev/contracts` package which provides base contracts and extensions to inherit. The package is already installed with this project. Head to our [Contracts Extensions Docs](https://portal.thirdweb.com/thirdweb-deploy/contract-extensions) to learn more.
-
-## Building the project
-
-After any changes to the contract, run:
-
-```bash
-npm run build
-# or
-yarn build
-```
-
-to compile your contracts. This will also detect the [Contracts Extensions Docs](https://portal.thirdweb.com/thirdweb-deploy/contract-extensions) detected on your contract.
+Learn the basics on building your own smart contracts with thirdweb. YouTube course goes over the basics of Solidity and how to create a few simple smart contracts.
 
 ## Deploying Contracts
 
@@ -29,17 +11,7 @@ When you're ready to deploy your contracts, just run one of the following comman
 ```bash
 npm run deploy
 # or
-yarn deploy
-```
-
-## Releasing Contracts
-
-If you want to release a version of your contracts publicly, you can use one of the followings command:
-
-```bash
-npm run release
-# or
-yarn release
+yarn deploy 
 ```
 
 ## Join our Discord!
